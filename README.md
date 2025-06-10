@@ -1,3 +1,5 @@
 # hello/test
 # To install; run
-devtools::install_github("kubix67/hello")
+```{r}
+devtools::install_github("<your github account name>/Hello")
+```
